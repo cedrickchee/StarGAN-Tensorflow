@@ -1,6 +1,11 @@
 <p align="center"><img width="40%" src="./assests/logo.jpg" /></p>
 
 --------------------------------------------------------------------------------
+
+## Overview
+
+This project is fork of TensorFlow implementation of [StarGAN](https://arxiv.org/abs/1711.09020). StarGAN is a unified Generative Adversarial Networks (GANs) for multi-domain image-to-image translation. What this means is, StarGAN can flexibly translate an input image to any desired target domain using only a single generator and a discriminator. You can take a look at the demo video for StarGAN [here](https://www.youtube.com/watch?v=EYjdLppmERE).
+
 ## Requirements
 * Tensorflow 1.8
 * Python 3.6
